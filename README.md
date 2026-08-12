@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Lucas Ferraz Meirelles
+# 👨‍💻 Olá, eu sou Lucas Ferraz Meirelles
 
 ### Desenvolvedor Full Stack • Estudante de Análise e Desenvolvimento de Sistemas
 
@@ -13,7 +13,7 @@ Construindo aplicações web, evoluindo como desenvolvedor e transformando conhe
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Tenho **18 anos**, sou formado como **Técnico em Desenvolvimento de Sistemas pela ETEC** e atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC**.
 
@@ -65,7 +65,7 @@ Além da premiação, o trabalho apresentado no evento também resultou na **pub
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
@@ -84,7 +84,7 @@ Além da premiação, o trabalho apresentado no evento também resultou na **pub
 
 ---
 
-## 🚀 Atualmente
+## Atualmente
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas na FATEC**
 - 💼 Atuando como **estagiário Full Stack**
